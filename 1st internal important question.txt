@@ -1,0 +1,25 @@
+1.explain how digital transformation can bring revolution teaching learing process
+
+2.how devops enables faster development of new products and easier maintence of exising deployments.
+
+3.the cloud is a hot topic form small business to global enterprice. if all the organisation being to consider switching its business to the cloud. 
+  it is crusional to understand the differences and advantanges of the various cloud servies.the three main cloud servies to consider are IAAS,SAAS,TAAS for each of this service 
+  types, which of the following are managed by you as a customer and service provider
+   * Application, virtualisation, OS, storage, networks, data, server.
+
+4.Password alone file to provide protection because they can be guesed and phished. how to streghther authentication for the banking control.
+
+5.explain how digital transformation can bring revolution in retail purchase with an example,
+
+6.digital payments are transformation like gpay,phonepay,etc.that take place via digital or online nodes with no physical exchange of money involed.
+  explain how design thinking has brought revolution in digital payments.
+
+7.explain following cloud service types and list then charterstics and advantages SISCO,webx,google app engine amazon ec2.
+
+8.what is virtual control why do you need virtual control.
+
+9.discus the importance of infrastructure as a code in devops engineering pratices.
+
+10.explain agile methodology.
+
+11.explain different service models of cloud.
